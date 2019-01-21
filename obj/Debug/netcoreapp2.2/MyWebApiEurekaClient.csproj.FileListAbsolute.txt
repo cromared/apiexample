@@ -1,0 +1,14 @@
+D:\ProyectoVSCode\MyWebApiEurekaClient\bin\Debug\netcoreapp2.2\MyWebApiEurekaClient.deps.json
+D:\ProyectoVSCode\MyWebApiEurekaClient\bin\Debug\netcoreapp2.2\MyWebApiEurekaClient.runtimeconfig.json
+D:\ProyectoVSCode\MyWebApiEurekaClient\bin\Debug\netcoreapp2.2\MyWebApiEurekaClient.runtimeconfig.dev.json
+D:\ProyectoVSCode\MyWebApiEurekaClient\bin\Debug\netcoreapp2.2\MyWebApiEurekaClient.dll
+D:\ProyectoVSCode\MyWebApiEurekaClient\bin\Debug\netcoreapp2.2\MyWebApiEurekaClient.pdb
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.csprojAssemblyReference.cache
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.csproj.CoreCompileInputs.cache
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.RazorAssemblyInfo.cache
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.RazorAssemblyInfo.cs
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.AssemblyInfoInputs.cache
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.AssemblyInfo.cs
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.RazorTargetAssemblyInfo.cache
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.dll
+D:\ProyectoVSCode\MyWebApiEurekaClient\obj\Debug\netcoreapp2.2\MyWebApiEurekaClient.pdb
